@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7066c25c23fe7be675d0434be3776a1579ead214">
+        <dex dex="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75d6b5eadd592d1bfc335af0724fae2305f6617b\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc1e3363d02e2a5767ad96f37968d826d3c4d12d">
+        <dex dex="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f389188f5ba0ee3645ffd1696c72db8908a85752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f87e21f71b5385e1c13202ca2ac07b9fede0705">
+        <dex dex="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f389188f5ba0ee3645ffd1696c72db8908a85752\classes.dex" />
+    </item>
+    <item
+        jar="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ab983d91ccfe1b8b1b874e1a522a414ffd02759">
+        <dex dex="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75d6b5eadd592d1bfc335af0724fae2305f6617b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\app\app_android_code\ViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3\classes.dex" />
+    </item>
+
+</items>

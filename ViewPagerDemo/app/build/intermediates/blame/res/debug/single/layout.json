@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_top_tab.xml",
+        "source": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\src\\main\\res\\layout\\activity_main_top_tab.xml"
+    },
+    {
+        "merged": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_contacts.xml",
+        "source": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\src\\main\\res\\layout\\activity_tab_contacts.xml"
+    },
+    {
+        "merged": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_chat.xml",
+        "source": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\src\\main\\res\\layout\\activity_tab_chat.xml"
+    },
+    {
+        "merged": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_friend.xml",
+        "source": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\src\\main\\res\\layout\\activity_tab_friend.xml"
+    },
+    {
+        "merged": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\app\\app_android_code\\ViewPagerDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
